@@ -1,0 +1,18 @@
+P { color: hsl(300, 100%, 25%);
+background:pink;
+padding-left: 30px;
+padding-top: 30px;
+height: 50px;
+width: 300px;
+margin: 50px;
+#background: url();
+}
+.highlight_01 {
+background: #aef39a;
+
+}
+
+body{
+    background-image:url(images/cannon.jpg);
+    background-size:cover;
+}
