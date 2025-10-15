@@ -6,3 +6,8 @@ display: flex;
 gap: 20px;
 }
 
+
+BODY {
+    background-image: url("images/cannon.png");
+    background-size: contain;
+}
