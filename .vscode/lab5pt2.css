@@ -1,0 +1,22 @@
+body {
+  transition: background-color 0.5s ease;
+  font-family: sans-serif;
+  text-align: center;
+  padding: 2em;
+}
+#output {
+  margin-top: 20px;
+  font-size: 1.5em;
+}
+
+button {
+  padding: 0.6em 1em;
+  font-size: 1em;
+  border-radius: 6px;
+  border: none;
+  background: #2b7a78;
+  color: white;
+  cursor: pointer;
+}
+
+button:active { transform: translateY(1px); }
